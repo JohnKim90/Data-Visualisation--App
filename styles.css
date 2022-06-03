@@ -1,0 +1,14 @@
+body{
+    font-size:2em;
+    font-family:sams;
+}
+
+.lines{
+    stroke:black;
+    stroke-width:10;
+}
+
+.line path {
+    stroke: #34aeeb;
+    stroke-linejoin:round ;
+}
